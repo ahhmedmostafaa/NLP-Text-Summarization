@@ -10,6 +10,9 @@ An extractive text summarization pipeline built and evaluated on the CNN/Daily M
 5. Selects the top-ranked sentences as the extractive summary
 6. Processes the full train/test splits and saves original + summarized pairs to CSV
 
+## Dataset
+[CNN/Daily Mail (abisee/cnn_dailymail)](https://huggingface.co/datasets/abisee/cnn_dailymail) — a standard benchmark dataset for summarization tasks, containing news articles paired with human-written summaries.
+
 ## Tech Stack
 - Python
 - Hugging Face `datasets`
@@ -18,7 +21,7 @@ An extractive text summarization pipeline built and evaluated on the CNN/Daily M
 
 ## Files
 - `text_summarize_project.ipynb` — full pipeline
-- `description of Project.pdf` — project write-up
+- `description of Project.docx` — project write-up
 - `article *.txt` — sample article outputs for inspection
 
 ## How to Run
