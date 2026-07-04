@@ -18,7 +18,7 @@ An extractive text summarization pipeline built and evaluated on the CNN/Daily M
 
 ## Files
 - `text_summarize_project.ipynb` — full pipeline
-- `description of Project.docx` — project write-up
+- `description of Project.pdf` — project write-up
 - `article *.txt` — sample article outputs for inspection
 
 ## How to Run
