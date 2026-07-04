@@ -29,8 +29,3 @@ An extractive text summarization pipeline built and evaluated on the CNN/Daily M
 pip install datasets scikit-learn pandas numpy
 jupyter notebook text_summarize_project.ipynb
 ```
-
-## Roadmap
-- [ ] Add ROUGE score evaluation against reference summaries
-- [ ] Compare against an abstractive summarization baseline (e.g., a pretrained transformer)
-- [ ] Make summary length (number of sentences) configurable
